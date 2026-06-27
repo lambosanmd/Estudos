@@ -1,0 +1,13 @@
+{
+	"title": "O Título",
+	"artist": "O Artista",
+	"lyrics": {
+		"paragraphs": [
+			{
+				"text": "O texto\nCompleto"
+			}, {
+				"text": "Com suas linhas."
+			}
+		]
+	}
+}

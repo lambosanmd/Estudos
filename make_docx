@@ -1,0 +1,10 @@
+#!/bin/sh
+
+in=$1
+
+echo "Converting '$in' MarkDown to Docx"
+pandoc "${in}".md -o "${in}".docx
+
+echo "Done '$in.docx'"
+
+
