@@ -1,0 +1,12 @@
+#!/bin/sh
+
+desc=$1
+
+git add .
+
+git commit -m desc
+
+stts = $(git status)
+echo "STATUS:"
+echo $stts
+
