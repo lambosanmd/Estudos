@@ -4,7 +4,7 @@ desc=$1
 
 git add .
 
-git commit -m desc
+git commit -m "${desc}"
 
 stts=$(git status)
 
@@ -13,5 +13,5 @@ then
 	echo "Error committing..."
 	exit
 else
-	echo "Ok..."
+	echo "Commit ${desc} ok."
 fi
