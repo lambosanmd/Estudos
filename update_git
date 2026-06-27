@@ -13,5 +13,13 @@ then
 	echo "Error committing..."
 	exit
 else
-	echo "Commit ${desc} ok."
+	echo "Commit '${desc}' ok."
 fi
+
+git branch -M main
+
+git remote add origin https://github.com/lambosanmd/Estudos.git
+
+git push -u origin main
+
+echo "Done."
