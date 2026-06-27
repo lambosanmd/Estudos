@@ -6,7 +6,7 @@ git add .
 
 git commit -m desc
 
-stts = $(git status)
+stts=$(git status)
 echo "STATUS:"
 echo $stts
 
