@@ -1,10 +1,16 @@
 #!/bin/sh
 
 in=$1
+fmt=$2
 
-echo "Converting '$in' MarkDown to Docx"
-pandoc "${in}".md -o "${in}".docx
+if [ $# -eq 1 ]
+then
+	fmt="txt"
+fi
 
-echo "Done '$in.docx'"
+echo "Converting '$in' MarkDown to $fmt"
+pandoc "${in}".md -o "${in}"."${fmt}"
+
+echo "Done '$in.$fmt'"
 
 
