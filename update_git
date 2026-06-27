@@ -18,7 +18,7 @@ fi
 
 git branch -M main
 
-git remote add origin https://github.com/lambosanmd/Estudos.git
+#~ git remote add origin https://github.com/lambosanmd/Estudos.git
 
 git push -u origin main
 
