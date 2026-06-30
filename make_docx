@@ -10,7 +10,4 @@ fi
 
 echo "Converting '$in' MarkDown to $fmt"
 pandoc "${in}".md -o "${in}"."${fmt}"
-
 echo "Done '$in.$fmt'"
-
-
