@@ -5,6 +5,15 @@ class: invert
 paginate: true
 _paginate: skip
 headingDivider: 3
+style: |
+    blockquote {
+        font-size: 50px;
+        text-align: justify;
+    }
+
+    ol, ul {
+        font-size: 56px;
+    }
 ---
 
 # Sobreviventes da Ira de Deus
