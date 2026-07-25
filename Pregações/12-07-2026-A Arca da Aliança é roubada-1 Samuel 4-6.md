@@ -1,9 +1,3 @@
----
-author: "Anderson Jonas"
-title: "A Captura da Arca da Aliança"
-fontsize: 24px
----
-
 # A Captura da Arca da Aliança
 
 ## 1 Samuel 4.1b-7.1
@@ -67,7 +61,7 @@ fontsize: 24px
 ---
 
 10. **Foram mortos de Israel trinta mil homens de pé**, embora a arca acompanhasse o povo na batalha, a matança foi maior do que antes.
-11.  Os filisteus capturam a arca, e matam Hofni e Fineias, filhos de Eli, cumprindo a palavra do Senhor.
+11. Os filisteus capturam a arca, e matam Hofni e Fineias, filhos de Eli, cumprindo a palavra do Senhor.
 
 #### 3. O Relato da Captura da Arca (4.12-18)
 
@@ -195,10 +189,14 @@ fontsize: 24px
    3. Através da captura, Deus cumpre Sua palavra contra os filhos de Eli, purifica a cultura religiosa da influência corrupta do sacerdócio, e prepara o caminho para Samuel se tornar um profeta e sacerdote fiel.
    
    4. Quando a arca é lavada, Deus está permitindo que Seu caráter e reputação sejam humilhados por causa de um propósito maior. Foi assim no exílio babilônico, e foi assim na crucificação de Jesus. Já parou para pensar, que Deus se humilhou por você?
+
 2. Essa história mostra a grandeza de Deus.
+   
    1. O Seu poder sendo mostrando em cada lugar onde a arca ía.
    2. Deus sempre está trabalhando na história humana, e nem sempre podemos detectar, mas tudo acontece para Sua honra e glória.
+
 3. Israel deixou de dar valor à presença de Deus e passou a tratar a arca como um talismã.
+   
    1. Então Deus agiu para mostrá-los que quem está no controle, não é a arca, mas o Senhor.
    2. Hoje, muitos só buscam a presença do Senhor na hora da aflição, ou na busca por bênçãos. Ou seja, nosso relacionamento com o Senhor não é de amor e reverência, mas de natureza utilitária.
    3. Queremos Deus quando é conveniente para nós.
