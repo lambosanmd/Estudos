@@ -1,7 +1,6 @@
 ---
 marp: true
 theme: tema
-class: invert
 paginate: true
 _paginate: skip
 ---
@@ -78,9 +77,7 @@ A aliança abraâmica, na qual Deus prometeu abençoar Israel, também prometia 
 **Gênesis 12.1-3**
 
 > O SENHOR tinha dito a Abrão: "Deixe sua terra natal, seus parentes e a família de seu e vá à terra que eu lhe mostrarei.
-
 > Farei de você uma grande nação, o abençoarei e o tornarei famoso, e você será uma bênção para outros.
-
 > Abençoarei os que o abençoarem e amaldiçoarei os que o amaldiçoarem. Por meio de você, todas as famílias da terra serão abençoadas."
 
 ---
@@ -91,7 +88,7 @@ Esta verdade é confirmada em várias passagens do Antigo Testamento.
 
 No **Salmo 67.1**, o salmista ora: `Que Deus seja misericordioso e nos abençoe. Que a luz de seu rosto brilhe sobre nós.`
 
-Esta bênção, porém, não para com eles, o salmista implora que Deus abençoe Israel para `Que teus caminhos sejam conhecidos em toda a terra, e a tua salvação, entre as nações de toda parte. [...] Sim, Deus nos abençoará, e todos os habitantes da terra o temerão.`_(Salmo 67.2, 7)_.
+Esta bênção, porém, não para com eles, o salmista implora que Deus abençoe Israel para `Que teus caminhos sejam conhecidos em toda a terra, e a tua salvação, entre as nações de toda parte. [...] Sim, Deus nos abençoará, e todos os habitantes da terra o temerão.`_(Salmo 67.2, 7)_
 
 ---
 
@@ -109,13 +106,93 @@ Guiados pelos 144 mil evangelistas _(7.1-8)_, Israel será luz para as nações 
 
 A promessa de Deus de abençoar as nações do mundo através dos descendentes de Abraão será cumprida numa escala global.
 
-Falando deste momento futuro de salvação dos gentios, Isaías escreveu, `Naquele dia, o descendente de Jessé será uma bandeira de salvação para todo o mundo. As nações se reunirão junto a ele, e a terra onde ele habita será um lugar glorioso.`_(Isaías 11.10)._
+Falando deste momento futuro de salvação dos gentios, Isaías escreveu, `Naquele dia, o descendente de Jessé será uma bandeira de salvação para todo o mundo. As nações se reunirão junto a ele, e a terra onde ele habita será um lugar glorioso.`_(Isaías 11.10)_
 
 Em **Isaías 49.6**, Deus promete ao Servo _(o Senhor Jesus Cristo)_, que pessoas de todas as nações serão adicionadas ao seu rebanho: `Ele diz: "Você fará mais que restaurar o povo de Israel para mim; eu o farei luz para os gentios, e você levará minha salvação aos confins da terra".`
 
 ---
 
+Em **Isaías 45.22**, Deus ordena, `Que todo o mundo se volte para mim para ser salvo!`
 
+**Isaías 52.10** acrescenta, `O SENHOR mostrou seu santo poder diante dos olhos de todas as nações. Todos os confins da terra verão a salvação de nosso Deus.`
+
+No dia de Pentecoste, Pedro cita **Joel 2.28-32**:
+
+> Então, depois que eu tiver feito essas coisas, derramarei meu Espírito sobre todo tipo de pessoa. Seus filhos e suas filhas profetizarão; os velhos terão sonhos, e os jovens terão visões.
+> [...]
+
+---
+
+> Naqueles dias, derramarei meu Espírito até mesmo sobre servos e servas.
+> Farei maravilhas nos céus e na terra: sangue e fogo, e colunas de fumaça.
+> O sol se escurecerá, a lua se tornará vermelha como sangue antes que chegue o grande e terrível dia do SENHOR.
+> Mas todo aquele que invocar o nome do SENHOR será salvo, pois alguns no monte Sião, em Jerusalém, escaparão, como o SENHOR prometeu. Estarão entre os sobreviventes que o SENHOR chamou.
+
+---
+
+Jesus ensinou que antes do Seu retorno no fim da tribulação, `as boas-novas a respeito do reino serão anunciadas em todo o mundo, para que todas as nações as ouçam; então, virá o fim.` _(Mateus 24.14)_
+
+**João 11.50ss** registra uma das profecias mais estranha das Escrituras, pois foi revelada através do sumo sacerdote Caifás:
+
+> "Não percebem que é melhor para vocês que um homem morra pelo povo em vez de a nação inteira ser destruída?"
+> Não disse isso por si mesmo, mas, sendo o sumo sacerdote naquele ano, profetizou que Jesus morreria pela nação inteira.
+> E não apenas por aquela nação, mas para reunir em um só corpo todos os filhos de Deus espalhados ao redor do mundo.
+
+---
+
+**Romanos 3.29**
+
+> Afinal, Deus é Deus apenas dos judeus? Não é também Deus dos gentios? Claro que sim!
+
+Apocalipse 7.9-17 descreve que uma vasta multidão de pessoas de todas as nações do mundo será salva durante a tribulação.
+
+Isto também inclue os israelitas que ouvirão a pregação dos 144 mil.
+
+Oito palavras-chave introduzem este grupo: sua descrição, localização, ação, associação, originação, função, proteção e provisão.
+
+---
+
+## **Descrição**
+
+`Depois disso, vi uma imensa multidão, grande demais para ser contada, de todas as nações, tribos, povos e línguas, [...]. Usavam vestes brancas e seguravam ramos de palmeiras.` _(Apocalipse 7.9a, c)_
+
+Assim como no resto de Apocalipse, **depois disso** inicia uma nova visão, distinta da de 7.1-8.
+
+No original, João diz que `eis uma imensa multidão`, o uso de **eis** indica espanto da parte de João.
+
+---
+
+O velho apóstolo, último sobrevivente dos 12, deve ter se sentido isolado e só em seu exílio na ilha de Patmos.
+
+Ele viu gentios se convertendo à Cristo, por meio de seu ministério na Ásia Menor e os ministérios de Paulo, Timóteo, Tito e outros.
+
+Igrejas de gentios foram fundadas, embora ainda fossem pequenas, cercadas e perseguidas.
+
+Além disso, 5 das 7 igrejas na Ásia Menos à quem Jesus escreveu as cartas (2.1-3.22) tinham caído em padrões sérios e assustadores de pecados.
+
+---
+
+Ver em sua visão uma vasta, triunfante multidão de redimidos cantando louvores a Deus foi uma experiência profundamente emocionante para João, que tinha visto as falhas severas das igrejas na Ásia Menor e as ameaças do julgamento do Senhor (2-3).
+
+Esta visão deve ter certamento renovado sua alegria e esperança, ao perceber que a igreja sobreviveria e, no fim, pessoas de todas as nações seriam salvas em grande números.
+
+O grupo apresentado nesta passagem é distinto dos 144 mil.
+
+---
+
+Em primeiro lugar, **depois disso** introduz uma nova visão.
+
+Segundo, o grupo é descrito como **grande demais para ser contado**, nenhum número específico é mencionado.
+
+Terceiro, os 144 mil são das tribos de Israel; este grupo é **de todas as nações, tribos, povos e línguas**.
+
+Descreve pessoas de todas as culturas, descendências, raças e línguas (5.9).
+
+Apresenta uma massa da humanidade, cruzando todas as barreiras e linhas divisórias.
+
+Por fim, os 144 mil foram selados e não podem ser atacados; este grupo não pode ser atacado, por já estar no céu.
+
+---
 
 
 
