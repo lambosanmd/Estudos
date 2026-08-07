@@ -1,4 +1,10 @@
-# "Os Cinco Pontos" do Arminianismo
+---
+marp: true
+theme: a4
+paginate: true
+---
+
+# **"Os Cinco Pontos" do Arminianismo**
 
 ## Livre Arbítrio
 
@@ -8,11 +14,15 @@ Os reformadores reconhecem que o homem tem um arbítrio, mas concordam com Luter
 
 Armínio acreditava que a queda do homem não era total, sustentando que havia bondade suficiente no homem para que ele deseje aceitar Cristo para Salvação.
 
+---
+
 ## Eleição Condicional
 
 Armínio ensinou que a eleição se baseava na presciência de Deus, num conhecimento prévio sobre quem acreditaria.
 
 Em outras palavras, o _ato de fé_ do homem é a **condição** pelo qual ele é eleito para a vida eterna, já que Deus previu ele exercendo seu **livre arbítrio** de maneira positiva em direção a Cristo.
+
+---
 
 ## Expiação Universal
 
@@ -21,6 +31,8 @@ Visto que eles tinham uma convicção maior de que Deus ama todo mundo, de que C
 Em outras palavras, a morte de Cristo providenciou uma oportunidade de salvação para todas as pessoas.
 
 Cada um, porém, deve exercer seu _livre arbítrio_ para aceitar Cristo.
+
+---
 
 ## Graça Resistível
 
@@ -31,6 +43,8 @@ Entretanto, como o homem tem **livre arbítrio** absoluto, ele é capaz de resis
 Para os arminianos, o homem primeiramente exerce sua vontade, _então_ ele nasce de novo.
 
 Embora o arminiano diga que crê na onipotência de Deus, ele insiste que a vontade de Deus de salvar todas as pessoas pode ser frustrada pelo desejo finito do homem como indivíduo.
+
+---
 
 ## Caindo da Graça
 

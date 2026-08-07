@@ -1,18 +1,9 @@
 ---
 marp: true
-theme: gaia
+theme: a4
 paginate: true
-style: |
-    section {
-        font-size: 38px;
-        color: #000000;
-        text-align: justify;
-        align-content: center;
-    }
-
-    h1, h2 {
-        text-align: center;
-    }
+title: Pregação dia dos Pais
+author: Anderson Jonas
 ---
 
 # **Tempos Difíceis**
@@ -124,24 +115,22 @@ Adão culpou Eva, já Eva culpou a serpente.
 
 ---
 
-# **Pais que Terceirizaram a Relação com seus Filhos**
+## **Pais que Terceirizaram a Relação com seus Filhos**
 
 `Deuteronômio 6.4-9`
 `Provérbios 22.6`
 
 Para Calvino, a igreja não tinha a função de protagonizar o ensino das crianças sobre o caminho do Senhor, mas de concordar com aquilo que os pais ensinam em casa.
 
----
-
 É dever do homem prover a casa e ser o líder espiritual de sua casa, ensinando a Bíblia a seus filhos.
 
 Criar filhos requer sacrifícios.
 
+---
+
 Como você tem lidado com seu tempo?
 Já se deu conta de que os momentos que você gasta com seus filhos contribui significantemente para o desenvolvimento deles?
 Tem investido nos relacionamentos familiares por meio da amizade, parceria e companheirismo?
-
----
 
 `Salmo 90`
 `Tiago 4.14`
@@ -152,11 +141,9 @@ Criar filhos vai além de suprir necessidades materiais, significa participar, i
 
 ---
 
-# **Aprendendo a Paternidade por meio da Relação entre Cristo e o Pai**
+## **Aprendendo a Paternidade por meio da Relação entre Cristo e o Pai**
 
 Relacionamento eterno na Trindade.
-
----
 
 ## **Pai Provedor**
 
@@ -171,8 +158,6 @@ No Sermão do Monte, _Mateus 6.23s_, Jesus ensina que não devemos andar ansioso
 _1 João 4.16_ afirma que Deus é amor.
 
 `João 3.16`
-
----
 
 ## **Pai Protetor**
 
@@ -205,28 +190,23 @@ Cresceu sem entender que na vida não se faz tudo o que quer, nem se obtém tudo
 
 `Provérbios 29.15`
 
----
-
 ## **Pai Presente**
 
 `Salmo 23`
 
 ---
 
-# **Os Deveres dos Pais para com os seus Filhos**
+## **Os Deveres dos Pais para com os seus Filhos**
 
 + Crie seus filhos a fim de prepará-los para o mundo;
 + Crie seus filhos a fim de servir ao Senhor e para a glória de Deus; _(Salmo 127.3)_
-
----
-
 + Crie meninos para serem homens e respeitarem as mulheres;
   + Elas devem ser tratadas com educação, carinho e afetividade;
   + Devem ser protegidas;
   + Amor sacrificial;
   + Ouvirem elas, seus conselhos, dicas e considerações;
   + Valorizar elas, suas profissões, formações acadêmicas etc;
-  + O homem não é superior, possue apenas funções diferentes;
+  + O homem não é superior, possui apenas funções diferentes;
 
 ---
 

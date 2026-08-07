@@ -1,4 +1,10 @@
-# TULIP
+---
+marp: true
+theme: a4
+paginate: true
+---
+
+# **TULIP**<!--fit-->
 
 ## A Busca pela Glória de Deus na Salvação
 
@@ -54,6 +60,8 @@
 > 
 > Deus assim o fez para o louvor de sua graça gloriosa, que ele derramou sobre nós em seu Filho amado.
 
+---
+
 **2 Timóteo 1.9**
 
 > Pois Deus nos salvou e nos chamou para uma vida santa, não porque merecéssemos, mas porque este era seu plano desde os tempos eternos: mostrar sua graça por meio de Cristo Jesus.
@@ -70,6 +78,8 @@
 
 2. Ser fiél às Escrituras é vastamente mais importante do que ser fiél ao Calvinismo ou Arminianismo.
 
+---
+
 3. Pensamento correto acerca do que a Bíblia ensina sobre Deus, o homem e salvação, realmente importa. Uma teologia ruim desonra a Deus e machuca as pessoas. Igrejas que cortam a raíz da verdade podem florecer por uma estação, mas eventualmente murcharão ou se tornarão algo que não seja uma igreja cristã.
 
 ---
@@ -78,7 +88,11 @@
 
 #### A.W. Tozer
 
-O primeiro passa para acabar com qualquer igreja é quando ela abandona sua alta opinião sobre Deus. Antes de uma igreja cristã em qualquer lugar eclipsar, deve primeiramente haver uma corrupção de sua teologia básica. Ela simplesmente erra ao responder a pergunta ==como Deus é?==, e parte daí. Embora ela possa continuar agarrada à um credo saudável, suas práticas se tornaram falsas. As massas dos seus seguidores passam a acreditar que Deus é diferente do que Ele relamente é; e esta é uma das mais malvadas e mortais heresias. A mais difícil tarefa da igreja cristã hoje é purificar e elevar o seu conceito sobre Deus até que ela seja mais uma vez digna dEle. _A. W. Tozer, Conhecendo o Santo [São Francisco: 1961], pp. 2-4_
+O primeiro passa para acabar com qualquer igreja é quando ela abandona sua alta opinião sobre Deus. Antes de uma igreja cristã em qualquer lugar eclipsar, deve primeiramente haver uma corrupção de sua teologia básica. Ela simplesmente erra ao responder a pergunta `como Deus é?`, e parte daí. Embora ela possa continuar agarrada à um credo saudável, suas práticas se tornaram falsas. As massas dos seus seguidores passam a acreditar que Deus é diferente do que Ele relamente é; e esta é uma das mais malvadas e mortais heresias.
+
+---
+
+A mais difícil tarefa da igreja cristã hoje é purificar e elevar o seu conceito sobre Deus até que ela seja mais uma vez digna dEle. _A. W. Tozer, Conhecendo o Santo [São Francisco: 1961], pp. 2-4_
 
 ---
 
@@ -91,7 +105,9 @@ O primeiro passa para acabar com qualquer igreja é quando ela abandona sua alta
 > Mas o homem natural não aceita as verdades do Espírito de Deus. Elas lhe parecem loucura, e ele não consegue entendê-las, pois apenas quem é espiritual consegue avaliar corretamente o que diz o Espírito.
 > 
 > Quem é espiritual pode avaliar todas as coisas, mas ele próprio não pode ser avaliado por outros.
-> 
+
+---
+
 > Pois, "Quem conhece os pensamentos do Senhor? Quem sabe o suficiente para instruí-lo?". Mas nós temos a mente de Cristo.
 
 5. Pensar é essencial para compreender a verdade bíblical.
@@ -106,6 +122,8 @@ O primeiro passa para acabar com qualquer igreja é quando ela abandona sua alta
 
 6. Deus ordena que haja professores na igreja para ajudar o corpo a compreender e aplicar as verdades das Escrituras.
 
+---
+
 **Efésios 4.11s**
 
 > Ele designou alguns para apóstolos, outros para profetas, outros para evangelista, outros para pastores e mestres.
@@ -114,20 +132,23 @@ O primeiro passa para acabar com qualquer igreja é quando ela abandona sua alta
 
 7. Assim como todos os humanos caídos e finitos, eu e você vemos como em "espelho, obscuramente" _(1 Coríntios 13.12)_. Não proclamamos ser perfeitos no que sabemos. E não proclamamos conhecer tudo o que pode ser conhecido. Nem proclamamos ver o que sabemos de maneira mais clara que os outros possam ver.
 
-Mas dizemos com Paulo, ==Continuamos a pregar porque temos o mesmo tipo de fé mencionada nas Escrituras: "Cri em Deus, por isso falei".== _(2 Coríntios 4.13)_. Embora não saibamos tudo o que há para saber, e embora não saibamos nada perfeitamente, ainda assim conhecemos muitas coisas verdadeiramente e com confiança, por causa da revelação de Deus e Seu Espírito.
+---
 
+Mas dizemos com Paulo, `Continuamos a pregar porque temos o mesmo tipo de fé mencionada nas Escrituras: "Cri em Deus, por isso falei".` _(2 Coríntios 4.13)_. Embora não saibamos tudo o que há para saber, e embora não saibamos nada perfeitamente, ainda assim conhecemos muitas coisas verdadeiramente e com confiança, por causa da revelação de Deus e Seu Espírito.
 Alguns exemplos:
 
 - _Sabemos_ que Cristo, ressuscitado dentre os mortos, não mais morrerá _(Rm 6.9)_.
-
 - _Sabemos_ que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito _(Rm 8.28)_.
 
+---
+
 - _Sabemos_ que enquanto estamos em casa no corpo, estamos ausentes do Senhor _(2Co 5.6)_.
-
 - _Sabemos_ que uma pessoa não é justificada por obras da lei, e sim mediante a fé em Cristo Jesus _(Gl 2.16)_.
-* _Sabemos_ que, quando ele se manifestas, seremos semelhantes a ele, porque haveremos de vê-lo como ele é _(1Jo 3.2)_.
+- _Sabemos_ que, quando ele se manifestas, seremos semelhantes a ele, porque haveremos de vê-lo como ele é _(1Jo 3.2)_.
+- _Sabemos_ que o Filho de Deus veio e nos deu entendimento para que conheçamos ao Deus verdadeiro _(1Jo 5.20)_.
 
-* _Sabemos_ que o Filho de Deus veio e nos deu entendimento para que conheçamos ao Deus verdadeiro _(1Jo 5.20)_.
+---
+
 8. No entanto, ainda há coisas que Deus escolheu não nos revelar, e devemos, geralmente, nos contentar com o mistério.
 
 **Deuteronômio 29.29**
@@ -142,35 +163,37 @@ Alguns exemplos:
 
 > Deus, por uma repentina conversão subjulgou e trouxe minha mente à uma perspectiva de aprendizado, o qual foi mais duro em tais coisas do que fora esperado num período mais jovem da minha vida. Tendo sentido o gosto e conhecido a verdade da piedade, eu fiquei imediatamente inflamado com um desejo intenso de progredir que, embora não tenha deixado de lado os outros estudos, ainda assim os busquei com menor fervor. _Dillenberger, João Calvino, Seleções de Seus Escritos, 1975, 26._
 
+---
+
 2. O teólogo holandês, Jacó Armínio, nasceu em 1560 e morreu em 1609. Ele discordou de pontos chave da doutrina calvinista.
 
 3. No início de 1600, surgiu uma controvérsia, especialmente na Holanda, entre arminianos e calvinistas, os grupos que levavam o nome daquele que mais poderosamente expressou seu entendimento das Escrituras.
 
 4. Em 1610, os arminianos apresentaram cinco posições doutrinárias, chamada de _Remonstrância_, para as autoridades do estado. Elas expressavam áreas chave onde eles discordavam dos calvinistas.
 
+---
+
 5. De 13 de novembro de 1618, até 9 de maio de 1619, calvinistas se encontraram no Sínodo de Dort para responder a estes cinco pontos. Suas respostas ficaram conhecidas como Cânones de Dort. Elas são a expressão original dos Cinco Pontos do Calvinismo.
 
 6. Portanto, os cinco pontos não foram afirmados pelos calvinistas como um resumo de sua doutrina. Eles eram a resposta dos calvinistas à remonstrância armianiana que escolheu estes cinco pontos de discordância.
+
+---
 
 7. No entanto, estes cinco pontos estão no cerne de como entendemos Deus, pecado, graça, expiação, salvação e todas as coisas relacionadas à essas realidades. Em resumo, os cinco pontos são vitais para entender, e para influenciar a toda vida e ministério.
 
 8. Em algum momento, a visão calvinista dos cinco pontos veio à ser resumido com o acrônimo TULIP.
 
 T - Depravação total
-
 U - Eleição incondicional
-
 L - Expiação limitada
-
 I - Graça irresistível
-
 P - Perseverança dos santos
 
-NOTA: É possível aceitar estes cinco pontos porque eles são bíblicos, e rejeitar outros ensinos de João Calvino e da Igreja Reformada Holandesa.
+<small class="pequeno">NOTA: É possível aceitar estes cinco pontos porque eles são bíblicos, e rejeitar outros ensinos de João Calvino e da Igreja Reformada Holandesa.</small>
 
 ---
 
-## Resumo das Diferenças entre Calvinismo e Arminianismo
+### Resumo das Diferenças entre Calvinismo e Arminianismo
 
 1. **Depravação**
 
@@ -178,11 +201,15 @@ _Calvinismo:_ As pessoas são tão depravadas e rebeldes que elas são incapazes
 
 _Arminianismo:_ As pessoas são depravadas e corruptas, mas são capazes de tomar o impulso decisivo de confiar em Deus com a assistência divina que Ele dá à todos através do Espírito Santo por meio do evangelho.
 
+---
+
 2. **Eleição**
 
 _Calvinismo:_ Deus escolheu incondicionalmente quais rebeliões Ele derrubaria e quem Ele traria à fé e salvação.
 
 _Arminianismo:_ Deus escolheu trazer à salvaçao todos aqueles que a fé Ele previu, mas não decidiu originar, gerar.
+
+---
 
 3. **Expiação**
 
@@ -190,11 +217,15 @@ _Calvinismo_: Na morte de Cristo, Deus providenciou uma expiação _suficiente_ 
 
 _Arminianismo_: Na morte de Cristo, Deus providenciou um expiação _suficiente_ para todos, e designada para ser _efetiva_ por meio da fé, ou seja, a fé não é um presente comprado pela cruz, mas o meio humano de obter o presente comprado do perdão.
 
+---
+
 4. **Graça Irresistível**
 
 _Calvinismo_: A graça irresistível é a obra de Deus em nós pela qual Ele supera nossa resistência contra Deus e sem falhar, gera o ato da fé salvífica e através desta fé, sem falhar, fornece tudo que precisamos para vivermos alegres com Deus para sempre.
 
 _Arminianismo:_ A graça não é irresistível, mas é preveniente - ela precede e torna a fé salvífica possível, mas nós providenciamos o ato decisivo de vontade que gera a fé salvífica através da qual Deus fornece tudo que precisamos para vivermos alegres com Deus para sempre.
+
+---
 
 5. **Perseverança**
 
@@ -217,6 +248,8 @@ Textos que mostram a graça sendo resistida:
 **Efésios 4.30**
 
 > Não entristeçam o Espírito Santo de Deus, o selo que ele colocou sobre vocês para o dia em que nos resgatará comom sua propriedade.
+
+---
 
 **1 Tessalonicenses 5.19**
 
@@ -244,6 +277,8 @@ O que é? A graça irresistível é a obra de Deus em nós pela qual Ele supera 
 
 > Com base na graça que recebi, dou a cada um de  vocês a seguinte advertência: não se considerem melhores do que realmente são. Antes, sejam honestos em sua autoavaliação, medindo-se de acordo com a fé que Deus nos deu.
 
+---
+
 **2 Timóteo 2.24ss**
 
 > O servo do Senhor não deve viver brigando, mas ser amável com todos, apto a ensinar e paciente.
@@ -256,6 +291,8 @@ O que é? A graça irresistível é a obra de Deus em nós pela qual Ele supera 
 
 > Ao ouvirem isso, pararam de levantar objeções e começaram a louvar a Deus, dizendo: "Vemos que Deus deu aos gentios o mesmo privilégio de se arrepender e receber a vida eterna!".
 
+---
+
 **Atos 16.14**
 
 > Uma delas era uma mulher temente a Deus chamada Lídia, da cidade de Tiatira, comerciante de tecido de púrpura. Enquanto ela nos ouvia, o Senhor lhe abriu o coração, e ela aceitou aquilo que Paulo estava dizendo.
@@ -265,7 +302,9 @@ O que é? A graça irresistível é a obra de Deus em nós pela qual Ele supera 
 > Por ordem do rei, mensageiros foram enviados a todo o Israel e Judá. Levavam cartas que diziam: "Ó israelitas, voltem para o SENHOR, o Deus de Abraão, Isaque e Israel, para que ele se volte para nós, os poucos que sobrevivemos à conquista pelos reis assírios.
 > 
 > Não sejam como seus antepassados e parentes que foram infiéis ao SENHOR, o Deus de seus antepassados, e se tornaram objeto de desprezo, como vocês mesmos podem ver.
-> 
+
+---
+
 > Não sejam teimosos, como eles foram, mas submetam-se ao SENHOR. Venham a este templo que ele consagrou para sempre.  Adorem o SENHOR, seu Deus, para que sua ira ardente se desvie de vocês.
 > 
 > Pois, _se_ voltarem para o SENHOR, seus parentes e seus filhos serão tratados com bondade por aqueles que os capturaram e voltarão a esta terra. Pois o SENHOR, seu Deus, é cheio de graça e compaixão. Não os rejeitará _se_ voltarem para ele".
@@ -295,7 +334,9 @@ O que é? A graça irresistível é a obra de Deus em nós pela qual Ele supera 
 > Somente o Espírito dá vida. A natureza humana não realiza coisa alguma. E as palavras que eu lhes disse são espírito e vida.
 > 
 > Mas alguns de vocês não creem em mim. Pois Jesus sabia, desde o princípio, quem não acreditava nele e quem iría traí-lo.
-> 
+
+---
+
 > E acrescentou: "Por isso eu disse que ninguém pode vir a mim a menos que o Pai o dê a mim".
 
 **João 17.2, 6**
@@ -336,6 +377,8 @@ O que é? A graça irresistível é a obra de Deus em nós pela qual Ele supera 
 > 
 > Estes não nasceram segundo a ordem natural, nem como resultado da paixão ou da vontade humana, mas nasceram de Deus.
 
+---
+
 **João 3.3-8**
 
 > Jesus respondeu: "Eu lhe digo a verdade: quem não nascer de novo, não verá o reino de Deus".
@@ -364,6 +407,8 @@ O que é? A graça irresistível é a obra de Deus em nós pela qual Ele supera 
 > 
 > Até hoje, porém, o SENHOR não lhes deu mente para entender, nem olhos para ver, nem ouvidos para ouvir!"
 
+---
+
 **Deuteronômio 30.6**
 
 > "O SENHOR, seu Deus, transformará o coração de vocês e de todos os seus descendentes, para que o amem de todo o coração e de toda a alma, e para que vivam!"
@@ -375,6 +420,8 @@ O que é? A graça irresistível é a obra de Deus em nós pela qual Ele supera 
 > Não será como a aliança que fiz com seus antepassados, quando os tomei pela mão e os tirei da terra do Egito. Embora eu os amasse como o marido ama a esposa, eles quebraram a aliança", diz o SENHOR.
 > 
 > "E esta é a nova aliança que farei com o povo de Israel depois daqueles dias", diz o SENHOR. "Porei minhas leis em sua mente e as escreverei em seu coração. Serei o seu Deus, e eles serão o meu povo."
+
+---
 
 **Jeremias 32.40**
 
@@ -407,7 +454,9 @@ O que é? A graça irresistível é a obra de Deus em nós pela qual Ele supera 
 > Pois as Escrituras afirmam que Deus disse ao faraó: "Eu o coloquei em posição de autoridade com o propósito de mostrar em você meu poder e propagar meu nome por toda a terra".
 > 
 > Como podem ver, ele escolhe ter misericórdia de alguns e endurecer o coração de outros.
-> 
+
+---
+
 > Mas algum de vocês dirá: "Então por que Deus os culpa? Não estão apenas cumprindo a vontade dele?".
 > 
 > Ora, quem é você, mero ser humano, para discutir com Deus? Acaso o objeto criado pode dizer àquele que o criou: "Por que você me fez assim?"
@@ -425,11 +474,11 @@ O que é? A graça irresistível é a obra de Deus em nós pela qual Ele supera 
 Quando Deus quer, sua graça salvífica se torna irresistível. Ele supera nossa resistência e infalivelmente gera o ato da fé salvífica, e através desta fé, infalivelmente fornece tudo que precisamos para alegremente vivermos com Deus para sempre.
 
 - E, se é pela graça, já não é pelas obras; do contrário, a graça já não é graça. _Romanos 11.6_
-
 - Pois Deus nos salvou e nos chamou para uma vida santa, não porque merecêssemos, mas porque este era seu plano desde os tempos eternos: mostrar sua graça por meio de Cristo Jesus. _2 Timóteo 1.9_
 
-- O que agora sou, porém, deve-se inteiramente à graça que Deus derramou sobre mim, e que não foi inútil. Trabalhei com mais dedicação que qualquer outro apóstolo e, no entanto, não fui eu, mas Deus que, em sua graça, operou por meu intermédio. _1 Coríntios 15.10_
+---
 
+- O que agora sou, porém, deve-se inteiramente à graça que Deus derramou sobre mim, e que não foi inútil. Trabalhei com mais dedicação que qualquer outro apóstolo e, no entanto, não fui eu, mas Deus que, em sua graça, operou por meu intermédio. _1 Coríntios 15.10_
 - Ele nos predestinou para si, para nos adotar... para o louvor de sua graça gloriosa. _Efésios 1.5s_
 
 ---
