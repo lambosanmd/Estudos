@@ -5,6 +5,12 @@ paginate: true
 _paginate: skip
 ---
 
+<style scoped>
+    section {
+        align-content: center;
+    }
+</style>
+
 # **Santos da Tribulação**<!--fit-->
 ## Apocalipse 7.9-17
 
