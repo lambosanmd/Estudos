@@ -5,16 +5,9 @@ paginate: true
 _paginate: skip
 ---
 
-<style scoped>
-    section {
-        align-content: center;
-    }
-</style>
-
 # **Santos da Tribulação**<!--fit-->
 ## Apocalipse 7.9-17
 
----
 
 Tem havido vários momentos de grande resposta ao evangelho ao longo da história, incluindo o nascimento da igreja no dia de Pentecostes, a reforma na Europa no séculos XVI, e o grande avivamentos no Estados Unidos no século XVIII.
 
@@ -24,23 +17,19 @@ Também tem sido as orações do povo de Deus que Deus trouxesse grande colheita
 
 No futuro, porém, virá um momento de resposta global ao evangelho que excederá qualquer outro momento na história, e talvez todos eles combinados.
 
----
-
 Varrerá o globo em poucos anos, e produzirá uma vasta multidão de redimidos de todas as nações, fazendo deste momento o maior movimento do poder salvador de Deus que o mundo já viu.
 
 Antecipação deste grande **reavivamento** é consistente com o fato de que Deus é um Deus misericordioso, gracioso que é por natureza um Salvador e deseja que a humanidade seja salva.
 
-**1 Timóteo 2.4** declara que Ele `deseja que todos sejam salvos e conheçam a verdade.`
-
 ---
+
+**1 Timóteo 2.4** declara que Ele `deseja que todos sejam salvos e conheçam a verdade.`
 
 **2 Pedro 3.9** adiciona, `Na verdade, o Senhor não demora em cumprir sua promessa, como pensam alguns. Pelo contrário, ele é paciente por causa de vocês. Não deseja que ninguém seja destruído, mas que todos se arrependam.`
 
 A designação bíblica comum de Deus como Salvador reflete o Seu desejo de que o povo seja salvo _(Salmo 106.21; Isaías 43.3, 11; 45.15, 21; 49.26; 60.16; 63.8; Oséias 13.4; Lucas 1.47; 2.11; 1 Timóteo 2.3; 2 Timóteo 1.10; Tito 1.3; 2.10, 13; 3.4, 6; 2 Pedro 1.1)_.
 
 Em **1 Timóteo 4.10**, Deus é descrito como o `Salvador de todos, especialmente dos que creem.`
-
----
 
 Ele é o **Salvador de todos** num sentido temporal e físico _(graça comum)_; ou seja, Ele permite que pecadores merecedores de morte instantânea e inferno continuem a viver na terra.
 
@@ -64,8 +53,6 @@ Será o momento em que o reino de terror do Anticristo ocorrerá, lado a lado co
 
 Será no meio deste período de horrores e medo que Deus salvará pessoas numa escala nunca vista.
 
----
-
 A obra salvadora de Deus durante aquele período futuro ocorrerá em duas partes.
 
 Primeiro, será o momento da salvação nacional de Israel, cujo Zacarias _(12.10ss)_, no Antigo Testamento, e Paulo _(Romanos 11.25ss)_, no Novo Testamento, previram.
@@ -88,17 +75,15 @@ Deus, desde o princípio, escolheu Israel como o canal pelo qual Suas bênçãos
 
 Esta verdade é confirmada em várias passagens do Antigo Testamento.
 
----
-
 No **Salmo 67.1**, o salmista ora: `Que Deus seja misericordioso e nos abençoe. Que a luz de seu rosto brilhe sobre nós.`
 
 Esta bênção, porém, não para com eles, o salmista implora que Deus abençoe Israel para `Que teus caminhos sejam conhecidos em toda a terra, e a tua salvação, entre as nações de toda parte. [...] Sim, Deus nos abençoará, e todos os habitantes da terra o temerão.`_(Salmo 67.2, 7)_
 
 O **Salmo 98.3** declara que `Ele se lembrou de seu amor e fidelidade a Israel; os confins da terra viram a vitória de nosso Deus.`
 
-Escolhido para a ser o instrumento de Deus na salvação das nações, Israel tragicamente falhou nesta missão.
-
 ---
+
+Escolhido para a ser o instrumento de Deus na salvação das nações, Israel tragicamente falhou nesta missão.
 
 A igreja interveio e é esse canal nesta era.
 
@@ -107,8 +92,6 @@ No futuro, Deus graciosamente concederá a Israel uma segunda oportunidade para 
 Guiados pelos 144 mil evangelistas _(7.1-8)_, Israel será luz para as nações durante o momento mais escuro na história da terra.
 
 A promessa de Deus de abençoar as nações do mundo através dos descendentes de Abraão será cumprida numa escala global.
-
----
 
 Falando deste momento futuro de salvação dos gentios, Isaías escreveu, `Naquele dia, o descendente de Jessé será uma bandeira de salvação para todo o mundo. As nações se reunirão junto a ele, e a terra onde ele habita será um lugar glorioso.`_(Isaías 11.10)_
 
@@ -127,8 +110,6 @@ No dia de Pentecoste, Pedro cita **Joel 2.28-32**:
 > Farei maravilhas nos céus e na terra: sangue e fogo, e colunas de fumaça.
 > O sol se escurecerá, a lua se tornará vermelha como sangue antes que chegue o grande e terrível dia do SENHOR.
 > Mas todo aquele que invocar o nome do SENHOR será salvo, pois alguns no monte Sião, em Jerusalém, escaparão, como o SENHOR prometeu. Estarão entre os sobreviventes que o SENHOR chamou.
-
----
 
 Jesus ensinou que antes do Seu retorno no fim da tribulação, `as boas-novas a respeito do reino serão anunciadas em todo o mundo, para que todas as nações as ouçam; então, virá o fim.` _(Mateus 24.14)_
 
@@ -150,8 +131,6 @@ Isto também inclue os israelitas que ouvirão a pregação dos 144 mil.
 
 Oito palavras-chave introduzem este grupo: sua descrição, localização, ação, associação, originação, função, proteção e provisão.
 
----
-
 ## **Descrição**
 
 `Depois disso, vi uma imensa multidão, grande demais para ser contada, de todas as nações, tribos, povos e línguas, [...]. Usavam vestes brancas e seguravam ramos de palmeiras.` _(Apocalipse 7.9a, c)_
@@ -171,8 +150,6 @@ Igrejas de gentios foram fundadas, embora ainda fossem pequenas, cercadas e pers
 Além disso, 5 das 7 igrejas na Ásia Menos à quem Jesus escreveu as cartas (2.1-3.22) tinham caído em padrões sérios e assustadores de pecados.
 
 Ver em sua visão uma vasta, triunfante multidão de redimidos cantando louvores a Deus foi uma experiência profundamente emocionante para João, que tinha visto as falhas severas das igrejas na Ásia Menor e as ameaças do julgamento do Senhor (2-3).
-
----
 
 Esta visão deve ter certamento renovado sua alegria e esperança, ao perceber que a igreja sobreviveria e, no fim, pessoas de todas as nações seriam salvas em grande números.
 
