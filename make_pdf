@@ -4,3 +4,5 @@ arquivo=$1
 
 marp --pdf --pdf-outlines "${arquivo}" --theme ~/Documents/Estudos/.themes/a4.css --browser-path "/usr/bin/brave-origin"
 
+marp --pdf --pdf-outlines _ --theme ..\.themes\a4.css --browser-path "C:\Users\lambo\AppData\Local\BraveSoftware\Brave-Browser\Application\brave.exe"
+

@@ -2,7 +2,6 @@
 marp: true
 theme: a4
 paginate: true
-_paginate: skip
 ---
 
 # **Santos da Tribulação**<!--fit-->
@@ -168,6 +167,12 @@ Descreve pessoas de todas as culturas, descendências, raças e línguas (5.9).
 Apresenta uma massa da humanidade, cruzando todas as barreiras e linhas divisórias.
 
 Por fim, os 144 mil foram selados e não podem ser atacados; este grupo não pode ser atacado, por já estar no céu.
+
+Os redimidos estavam vestidos com **vestes brancas**.
+
+_Leukos_ (branco) descreve uma cor brilhante e reluzente.
+
+Eram roupas usadas em festivais e celebrações.
 
 
 
