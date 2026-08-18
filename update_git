@@ -1,25 +1,16 @@
 #!/bin/sh
-
 desc=$1
-
 git add .
-
 git commit -m "${desc}"
-
 stts=$(git status)
-
-if [ "$?" -ne 0 ]
-then
+if [ "$?" -ne 0 ] then
 	echo "Error committing..."
 	exit
 else
 	echo "Commit '${desc}' ok."
 fi
-
 git branch -M main
-
 #~ git remote add origin https://github.com/lambosanmd/Estudos.git
-
 git push -u origin main
-
 echo "Done."
+
