@@ -174,14 +174,55 @@ _Leukos_ (branco) descreve uma cor brilhante e reluzente.
 
 Eram roupas usadas em festivais e celebrações.
 
+Essas vestes são _stole_, estolas, vestes longas que cobrem o corpo.
 
+São as mesmas vestes usadas pelos mártires em 6.9ss.
 
+Isso sugere que o grupo visto nessa passagem faz parte do grupo de crentes martirizados.
 
+No desenrolar da tribulação, o número de mártires aumentará, aqueles que morrerem naturalmente e aqueles que forem assassinados, chegando à essa vasta multidão no céu descrita nessa passagem.
 
+As **vestes brancas** são simbólicas, visto que os santos ainda não possuem corpos ressurretos (6.9; 20.4).
 
+As vestes mostram sua exaltação, vitória e regozijo, e também representam santidade e são reservadas para Cristo (Mt 17.2; Mc 9.3), anjos (Mt 28.3; Mc 16.5), e a igreja glorificada (19.8, 14).
 
+Os santos seguram **ramos de palmeiras em suas mãos**.
 
+Os ramos são associados a celebração, libertação e alegria.
 
+Eram proeminentes durante a Festa das Cabanas, que celebrava a provisão de Deus para Israel durante a caminhada no deserto (Lv 23.40), e era usado para construir cabanas durante a festa (Ne 8.15ss).
+
+Durante a entrada triunfal de Jesus a multidão balançava ramos de palmeira enquanto o recepcionavam em Jerusalém, gritando: "Hosana! Bendito o que vem em nome do Senhor e que é Rei de Israel!" (Jo 12.13).
+
+Os ramos nas mãos dos santos são um símbolo celebrativo da provisão de salvação sem igual do mundo, de Satã, do Anticristo, do pecado, da morte e do inferno, através do Senhor Jesus Cristo.
+
+## *Localização*
+
+`Em pé diante do trono e do Cordeiro` _(Apocalipse 7.9b)_
+
+Muitos foram violentamente mortos pelo Anticristo (20.4) por se recusarem a aceitar sua marca ou adorá-lo.
+
+Eles já não mais são vistos sob o altar orando por vingança (6.9ss), a qual já começou, mas em pé, triunfantes, diantes do trono de Deus, "os espíritos dos justos no céu, agora aperfeiçoados" (Hb 12.23).
+
+## *Ação*
+
+`E gritavam com grande estrondo: "A salvação vem de nosso Deus, que está sentado no trono, e do Cordeiro!".` _(Apocalipse 7.10)_
+
+Assim como todos faremos no céu, os mártires constantemente gritam (5.12; 6.10; 11.12, 15; 12.10; 14.7; 16.1; 19.1; 21.3) de alegria em adoração.
+
+O Senhor deseja adoração com júbilo (Sl 66.1; 100.1).
+
+Suas orações de intercessão cessaram e eles glorificam e adoram Deus, Aquele responsável por seu triunfo.
+
+A salvação é o tema de sua adoração, assim como o é ao longo da Revelação. (5.8ss LER).
+
+Assim como em 5.13ss, a ocupação daqueles que estão no céu é de contínuo e eterno louvor ao Todo-Poderoso Deus, que é soberano, pois **senta no trono**, e ao Cordeiro.
+
+O que está no trono e o Cordeiro são chamados de **nosso Deus**.
+
+## *Associação*
+
+`E todos os anjos estavam em pé ao redos do trono, dos anciãos e dos quatro seres vivos. Prostraram-se com o rosto em terra diante do trono e adoraram a Deus, cantando: "Amém! Louvor e glória e sabedoria, gratidão e honra, força e poder pertencem a nosso Deus, para todo o sempre. Amém!".` _(Apocalipse 7.11s)_
 
 ---
 
