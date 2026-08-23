@@ -224,6 +224,48 @@ O que está no trono e o Cordeiro são chamados de **nosso Deus**.
 
 `E todos os anjos estavam em pé ao redos do trono, dos anciãos e dos quatro seres vivos. Prostraram-se com o rosto em terra diante do trono e adoraram a Deus, cantando: "Amém! Louvor e glória e sabedoria, gratidão e honra, força e poder pertencem a nosso Deus, para todo o sempre. Amém!".` _(Apocalipse 7.11s)_
 
+A multidão não louva só.
+
+Os anjos ao redor do trono, também louvam e tem um número descrito como miríades de miríades, e milhares de milhares (5.11).
+
+Deuteronômio 33.2, Daniel 7.10, Hebreus 12.22 e Judas 14 descrevem milhares de anjos na presença do Senhor.
+
+Os anjos foram criados para adorar e servir ao Senhor. (Salmo 103.20; Colossences 1.16)
+
+Embora os anjos não experimentem a salvação, ele se alegram quando humanos são salvos (Lc 15.7, 10).
+
+Os anciões e os querubins louvam também o Senhor.
+
+Todos se prostram diante da glória e majestade do único, verdadeiro e santo Deus.
+
+Todos clamam: amém! Reconhecendo a grandeza de Deus.
+
+O louvor é eterno: para todo o sempre.
+
+## *Originação*
+
+`` _(Apocalipse 7.13s)_
+
+João se torna ativo na visão, quando um dos anciões o pergunta quem são os de vestes brancas e de onde vieram.
+
+Ele não pergunta por não saber, mas para que ficasse registrado quem eles eram e de onde vinham.
+
+Ele queria que aquela informação fosse enfatizada: há salvação durante a tribulação.
+
+Eles serão pessoas que viveram durante a era da igreja, mas rejeitaram o evangelho, mas tiveram uma segunda oportunidade.
+
+Jesus havia (Mt 7.13s; 22.14) dito que poucos seriam salvos, e João estava vendo o declínio da igreja, porém em sua frente estava uma multidão inumerável.
+
+É um grupo específico daqueles que passaram pela tribulação.
+
+Se eles fossem parte da igreja, por que não foram identificados como tais?
+
+## *Função*
+
+`` _(Apocalipse 7.15a)_
+
+
+
 ---
 
 <!--_paginate: skip-->
