@@ -2,6 +2,7 @@
     "markdown.marp.themes": [
         ".themes/tema.css",
         ".themes/a4.css",
-        ".themes/book.css"
+        ".themes/book.css",
+        ".themes/booklet.css"
     ]
 }

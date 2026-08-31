@@ -42,10 +42,4 @@ Sut mae Ceri?
 
 > Tachwedd - _November_
 
-
-
-
-
-
-
 </div>

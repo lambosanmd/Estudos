@@ -1,4 +1,4 @@
-/* @theme book */
+/* @theme booklet */
 
 @import "default";
 
@@ -6,13 +6,8 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
-h3 {
-    background-color: rgb(241, 230, 75);
-    border: 1px solid black;
-    border-radius: 20px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-    margin-bottom: 0;
+p {
+    text-indent: 2em;
 }
 
 .container {
@@ -38,39 +33,16 @@ h3 {
 section {
     width: 210mm;
     height: 297mm;
+    font-family: monospace;
     font-size: 16px;
     text-align: justify;
     align-content: start;
     color: black;
-    line-height: 1.35;
+    line-height: 1.15;
 }
 
 code {
     display: inline;
-}
-
-blockquote {
-    background-color: rgb(208, 252, 237);
-    font-size: 22px;
-    line-height: 1.5;
-    text-align: center;
-    color: black;
-    border: 1px solid black;
-}
-
-small.pequeno {
-    display: block;
-    line-height: 1.25;
-    font-size: 18px;
-}
-
-div.vocab {
-    text-align: left;
-    border: 1px solid black;
-}
-
-ul, ol {
-    line-height: 1.25;
 }
 
 div.page {
