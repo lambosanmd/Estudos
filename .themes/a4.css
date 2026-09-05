@@ -6,10 +6,14 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+p {
+    text-indent: 2em;
+}
+
 section {
     width: 210mm;
     height: 297mm;
-    font-size: 24px;
+    font-size: 22px;
     text-align: justify;
     align-content: start;
     color: black;
@@ -24,6 +28,12 @@ blockquote {
     background-color: rgb(208, 252, 237);
     font-size: 20px;
     line-height: 1.25;
+    
+    p {
+        text-indent: 0;
+        font-weight: bold;
+        font-style: italic;
+    }
 }
 
 small.pequeno {
@@ -34,4 +44,5 @@ small.pequeno {
 
 ul, ol {
     line-height: 1.25;
+    font-size: 20px;
 }
