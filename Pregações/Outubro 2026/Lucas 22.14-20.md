@@ -16,11 +16,16 @@ A versão de Lucas da última Pascóa de Jesus com seus discípulos diferere em 
 > 6 Portanto, diga ao povo de Israel: ‘Eu sou o Senhor. Eu os libertarei da opressão e os livrarei da escravidão no Egito. Eu os resgatarei com meu braço poderoso e com grandes atos de julgamento.
 > 7 Eu os tomarei como meu povo e serei o seu Deus. Então vocês saberão que eu sou o Senhor, seu Deus, que os libertou da opressão no Egito.
 
+- 1º Cálice – Cálice da Santificação (Kiddush): Representa a promessa "Eu vos tirarei de debaixo das cargas dos egípcios". Marca a separação do povo e a consagração da festa.
+- 2º Cálice – Cálice da Libertação (Magid): Representa a promessa "Eu vos livrarei da servidão". É bebido após a leitura da história do Êxodo e da lembrança das pragas.
+- 3º Cálice – Cálice da Redenção (Birkhat Ha-Mazon / Bênção): Representa a promessa "Eu vos resgatarei com braço estendido". É servido após a refeição principal e, na tradição cristã, foi o cálice no qual Jesus instituiu a Eucaristia.
+- 4º Cálice – Cálice do Louvor / Consumação (Hallel): Representa a promessa "Eu vos tomarei por meu povo". Encerra os salmos de louvor. Na narrativa da Última Ceia, Jesus não o bebeu naquele momento, mas completou essa Páscoa na cruz ao beber o vinagre antes de declarar "Tudo está consumado".
+
+---
+
 **14. Chegada a hora.** A "hora" de celebrar a Páscoa e, num sentido mais amplo, a "hora" do sofrimento e da morte de Jesus.
 
 Ele se reclina sobre a mesa, sendo esta a posição em que a referição da Páscoa e de outras celebrações era comida.
-
----
 
 Jesus **15. desejava ansiosamente** comer esta refeição com seus discípulos, por várias razões:
 1. Representava a fundação da nação de Israel;
@@ -36,6 +41,8 @@ Jesus **15. desejava ansiosamente** comer esta refeição com seus discípulos, 
 
 **19. Tomando um pão** é paralelo à multiplicação dos pães.
 
+---
+
 A expessão **19. isto é o meu corpo** tem sido objeto de várias interpretações ao longo da história da igreja:
 - Para os Católicos Romanos é um sentido literal, onde o pão e o vinho se tornam o corpo e o sangue de Cristo;
 - Para os Luteranos o corpo e o sangue estão presentes de forma literal no pão e vinho, como água numa esponja;
@@ -43,8 +50,6 @@ A expessão **19. isto é o meu corpo** tem sido objeto de várias interpretaç�
 - Para nós, são simbólos memoriais daquilo que Cristo faria na cruz.
 
 Fazei isto em memória de mim.
-
----
 
 **19. Dado por vós** o verbo, *didomi*, é usado para se referir a sacrifícios.
 
