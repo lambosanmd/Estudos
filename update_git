@@ -3,7 +3,8 @@ desc=$1
 git add .
 git commit -m "${desc}"
 stts=$(git status)
-if [ "$?" -ne 0 ] then
+if [ "$?" -ne 0 ]
+then
 	echo "Error committing..."
 	exit
 else
