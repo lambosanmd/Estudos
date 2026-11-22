@@ -2,10 +2,8 @@ import requests
 import json
 
 textos = [
-    "sl", 1, 1,
-    "jo", 3, 16,
-    "ef", 2, 8,
-    "ef", 2, 9
+    "ex", 3, 15,
+    "ex", 3, 18,
 ]
 
 def get_data(abbrev, chap, verse):
@@ -17,6 +15,8 @@ def get_data(abbrev, chap, verse):
 def main():
     for i in range(0, len(textos), 3):
         print(get_data(textos[i], textos[i + 1], textos[i + 2]))
+        print("\n")
+    print("\n\n...\n")
 
 if __name__ == "__main__":
     main()
