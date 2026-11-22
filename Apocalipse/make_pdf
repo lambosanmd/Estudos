@@ -1,0 +1,7 @@
+#!/bin/sh
+
+arquivo=$1
+
+marp --pdf --pdf-outlines "${arquivo}" --theme /run/media/jonas/Dados/Estudos/.themes/a4.css --browser-path "/usr/bin/brave-origin"
+
+
