@@ -114,3 +114,311 @@ style: |
 
 `Efésios 4.31s`
 
+- Todos os verbos estão no imperativo: são ordens!
+- Não são sujestões, dicas, opções ou conselhos.
+- Como se perdoa?
+- É preciso sentir algo?
+- Tenho que ir até a pessoa conversar?
+- É necessário esperar o pedido de perdão?
+- Afinal, como se perdoa na prática?
+
+---
+
+- A Bíblia responde: *assim como Deus os perdoou em Cristo*.
+- E como Deus nos perdoou em Cristo?
+
+`Efésios 5.1s`
+> Portanto, sejam imitadores de Deus, como filhos amados, e *vivam em amor*, como também Cristo nos amou e *se entregou por nós* como oferta e sacrifício de aroma agradável a Deus.
+
+- Há dois aspectos na prática do perdão:
+    1. Amor
+    2. Sacrifício próprio
+
+---
+
+- O amor verdadeiro é demonstrado por meio de atitudes.
+- Devemos agir em favor de quem estamos perdoando.
+- Fazendo-lhe o bem, abrindo mão da vingança, procedendo de fato como se age com alguém que teve sua dívida conosco cancelada.
+- Quem perdoa sempre precisa se sacrificar mais do que quem é perdoado.
+- Orar em favor da pessoa perdoada é um excelente exercício de perdão.
+
+---
+
+- Mesmo que não se lembre dessa pessoa com carinho, e ainda haja sentimentos negativos por ela em seu coração, você não deve esperar mudanças no que sente.
+- Você deve *agir* para que haja mudanças!
+- Ore de maneira verdadeira e honesta.
+- Deus conhece o seu coração.
+- O ideal, então, é que tudo volte a ser como antes.
+- Porém, há excessões:
+    + Agressão física (não se exponha a situações que ponham sua vida em risco);
+    + Traição.
+
+---
+
+# Perdão Não Depende de Merecimento
+
+`Lucas 23.33-37`
+
+- Jesus é injustamente preso, torturado, açoitado, esbofeteado, xingado, menosprezado, acusado, ridicularizado e crucificador para morrer em lenta agonia.
+- Ele olha para os responsáveis: o povo, as autoridade judaicas e os soldados romanos.
+- Eles são injustos, assassinos, mentirosos, maus e *culpados*.
+- Estão ali para aproveitar o espetáculo.
+
+---
+
+- Nenhum deles pede perdão.
+- Nenhum deles merece ser perdoado.
+- Suas dívidas são imensuráveis.
+- Mas, de repente:
+
+> *Pai, perdoa-lhes...*
+
+- Ou seja, "Pai, cancela toda e qualquer dívida que cada um deles contraiu comigo ou contigo pr causa dos erros que cometeu".
+- Com poucas palavras, tudo é apagado.
+- *Tudo!* Acabou.
+
+---
+
+- Você não perdoa por merecimento do outro.
+- Nem deve deixar de perdoar pelo fato do outro não ter vindo até você.
+- A motivação do perdão é *misericórdia*, ou seja, não dar ao outro o que ele merece, e *graça*, dar ao outro o que ele não merece.
+- Jesus morreu pela humanidade, embora ninguém merecesse ser perdoado.
+
+`Romanos 3.10`
+
+> Não há nenhum justo, nem um sequer.
+
+---
+
+- Assim como Deus nos perdoou de graça, devemos também perdoar uns aos outros.
+
+`Colossenses 3.12ss`
+
+> Portanto, como povo escolhido de Deus, santo e amado, revistam-se de profunda compaixão, bondade, humildade, mansidão e paciência.
+> Suportem-se uns aos outros e perdoem as queixas que tiverem uns contra os outros.
+> *Perdoem como o Senhor lhes perdoou*.
+> Acima de tudo, porém, revistam-se do amor, que é o elo perfeito.
+
+---
+
+- Lembre de perdoar os outros como Cristo perdoou seus executores.
+- E mais do que isso: perdoe como o Senhor perdoou *você*.
+
+---
+
+# Graça: A Motivação do Perdão
+
+`Daniel 9.9`
+
+- Graça é Deus estendendo a mão para resgatar quem não merece.
+- Não tem a ver com méritos pessoais de quem é perdoado (Ef 2.8s).
+- É o Pai amando tanto o pecador que envia o Filho para se esvaziar de sua glória celestial, tornar-se carne como um de nós e dar a vida em resgate de muitos.
+
+---
+
+- É independente de quem somos ou do que fazemos.
+- Depende de quem Deus é do que Ele faz.
+- É como uma locomotiva que move as ações de Deus.
+- O combustível é o amor do Senhor.
+- O vagão seguinte é o da misericórdia divina.
+- E eles juntos produzem o perdão.
+- Graça > Misericórdia > Perdão.
+- Sabendo que a motivação do perdão é a graça de quem perdoa e não os méritos de quem precisa ser perdoado, por que não perdoamos quem nos faz o mal, se Deus nos perdoa sem merecermos?
+
+---
+
+- Por que ficamos esperando que ele se torne "digno" de nosso perdão?
+- Se o nosso perdão está condicionado a algo que o ofensor deve fazer para tornar-se digno de ser perdoado, nos distanciamos do amor e de Deus.
+- O ofensor não fez a parte dele? O ideal seria que tivesse feito.
+- Ainda assim, devemos perdoar sem que ele mereça.
+- Não por causa dele, mas por causa de nós e de Deus.
+
+---
+
+# Que Tipos de Erros Devo Perdoar e Quantas Vezes?
+
+`Mateus 18.21s`
+
+- *Isso não tem perdão!*
+- O erro foi tão grave, que aparentemente não há como perdoar. Mas há.
+
+`Mateus 12.31`
+
+> Todo pecado e toda blasfêmia serão perdoados, mas a blasfêmia contra o Espírito não será perdoada.
+
+---
+
+- *Tudo* tem perdão.
+- Basta que o ofendido queira perdoar.
+- Tudo que fizerem contra você é passível de perdão.
+- Basta você tomar a iniciativa de perdoar.
+- E *tudo* significa *tudo*: adultério, mentira, negligência, preguiça, abandono, desleixo, agressões, ausência, palavras ofensivas...
+- Se houver a disposição de perdoar, toda e qualquer falha pode ser revertida.
+- Há um número de vezes que devemos perdoar? *Infinito*.
+
+---
+
+`Lucas 17.3s`
+
+> Se o seu irmão pecar, repreenda-o e, se ele se arrepender, perdoe-lhe.
+> Se pecar contra você sete vezes no dia, e sete vezes voltar a você e disser: 'Estou arrependido', perdoe-lhe.
+
+- Não importa *quantas vezes o outro erre, estenda-lhe o perdão*.
+- Afinal, não é assim que Deus faz conosco, pessoas que erram diariamente, e muito?
+
+---
+
+# Perdão Depende de Saber, e Não de Sentir
+
+`Jó 19.25`
+
+- Quando disse isso, Jó estava sentindo muitas coisas: dor, solidão, desamparo, tristeza, sofrimento...
+- Ele *sentia* o que ninguém deseja sentir.
+- Mas ele *sabia* de algo que deixava todo o resto em segundo plano: Deus vive! Ele não me abandonou!
+
+---
+
+- Hoje em dia, *sentir* é supervalorizado.
+- Se você está doente, pegou uma infecção, vai ao médico. Ele receita um remédio. Você toma a primeira dose, e... nada. Ainda doente. Porém, continua tomando o remédio, até ficar bem.
+- Ou seja, você não *sente* o remédio funcionar, mas *sabe* que ele funciona.
+- Muitas vezes pecamos, nos arrependemos e pedimos perdão a Deus, e não sentimos nada.
+- Daí ficamos tristes e infelizes por não sentir nada.
+- O perdão não tem nada a ver com *sentir*, mas com *saber*.
+
+---
+
+- Quando alguém nos ofende, não devemos esperar sentir vontade de perdoar, mas perdoar porque sabemos que devemos perdoar.
+- Quando confesso meu pecado, ou perdoo a quem me fez mal, não sinto um calor ou um arrepio que mostra o perdão.
+- Está feito. Eu sei que fui perdoado, ou que perdoei.
+- Há muitos que acordam todos os dias sem coragem de encarar a realidade, pois não se *sentem* perdoadas por Deus.
+- Basta *saber* que Deus já nos perdoou.
+- Perdoe, não porque *sente* algo, mas porque *sabe* que é o certo a fazer, e que isso vai gerar paz, liberdade e leveza.
+
+---
+
+# Perdoar é Esquecer?
+
+`Miquéias 7.18s`
+
+- Perdoar não é sofrer amnésia.
+- É lembrar do erro sem que essa lembrança do passado envenene sua alma no presente.
+- Se seu cônjuge o ofendeu, e você o perdoou, cicatrizes ficarão.
+- A lembrança não será apagada da memória.
+
+---
+
+- Mas você não deve ficar trazendo a situação à tona, jogando na cara do outro, nem lidando com os problemas do futuro revisitando o dano do passado.
+- Perdoar é *ir em frente!*
+
+`Hebreus 8.12`
+
+> Eu lhes perdoarei a maldade e não me lembrarei mais dos seus pecados.
+
+- É óbvio que o Todo-Poderoso Deus onisciente não esquece dos nossos pecados.
+- Ele apenas decide não agir como se ainda tivéssemos uma dívida com Ele.
+
+---
+
+- É fácil perceber quando não houve perdão:
+    + "Em 1977 você fez isso...";
+    + "Cinco décadas atrás você se esqueceu do nosso aniversário de casamento"
+- A partir do momento em que o perdão é concedido, o erro cometido morre.
+
+`Hebreus 10.18`
+
+> Onde esses pecados foram perdoados, não há mais necessidade de sacrifício por eles.
+
+---
+
+- É comum se questionar se você de fato perdoou o outro.
+- É como lembrar de queda no passado.
+- Você lembra da dor.
+- Talvez até consiga sentí-la.
+- Mas no presente já não dói.
+- Perdoar não é sofrer amnésia.
+- É não deixar o veneno continuar fazendo efeito.
+- É não deixar a dor do passado continuar doendo hoje.
+
+---
+
+# O Perdão Não Deve Incetivar o Erro
+
+`Gálatas 6.7-10`
+
+- Uma pessoa que mata outra, pode ser perdoada, mas a vítima continua morta.
+- Se alguém espanca o outro e o fere, pode ser perdoado, mas as marcas e as cicatrizes não irão sumir.
+- Se alguém engravida por causa de sexo irresponsável, pode se arrepender, mas a criança gerada não desaparece.
+
+---
+
+- Nunca devemos errar nos escorando no fato de que seremos perdoados.
+
+`Romanos 6.1s, 15`
+
+> Que diremos então? Continuaremos pecando para que a graça aumente? De maneira nenhuma!
+> Nós, os que morremos para o pecado, como podemos continuar vivendo nele?
+> [...]
+> E então? Vamos pecar porque não estamos debaixo da Lei, mas debaixo da graça? De maneira nenhuma!
+
+---
+
+- Erros sempre têm consequências.
+- O perdão reverte o estrago, mas não anula seus desdobramentos.
+
+---
+
+# Perdão Também Produz Saúde Mental, Emocional e Física
+
+`Mateus 6.12`
+
+- Pesquisas científicas mostram que perdoar reduz a raiva, a depressão e o estresse, e produz esperança, paz, compaixão e autoconfiança.
+- Também gera uma melhor qualidade de vida, um corpo mais saudável e uma atitude mais positiva.
+
+---
+
+# Perdão Leva à Paz
+
+`1Timóteo 5.8`
+
+- Um momento de conversa sobre perdão ajuda a trazer paz para o lar.
+
+---
+
+# Perdoar é Um Esforço Árduo
+
+`João 6.60s, 65s`
+
+- Jesus nunca enganou ninguém.
+- Deixou claro que seguir o evangelho é duro.
+- Exige abnegação, renúncia e firmeza.
+- Muitos dos primeiros discípulos abandonaram quando se deram conta dessa realidade.
+
+---
+
+- Às vezes perdoar é difícil. *Sempre* é difícil.
+- Você não precisa perdoar alguém por depositar um milhão de reais em sua conta, ou lhe deu uma Ferrari de presente, ou salvou seu filho de um acidente.
+- Precisamos perdoar pessoas que nos fizeram algum mal, que nos roubaram, difamaram, molestaram, machucaram, traíram, magoaram, ofenderam, prejudicaram, desdenharam, abandonaram, perseguiram.
+- Perdoar é amar quem não é amável.
+- Perdoar é um exercício de amor, domínio próprio e esforço.
+
+---
+
+- Da mesma forma que é para cancelar uma dívida de alguém que lhe deve muito dinheiro.
+- Não é fácil perdoar...
+    + Um marido alcóolatra que gasta o dinheiro na bebida;
+    + Um cônjuge infiel;
+    + Um marido distante e frio;
+    + Uma esposa briguenta;
+    + Um marido egoísta;
+    + Uma esposa preguiçosa;
+- Em suma: um cônjuge imperfeito.
+
+---
+
+# Nossa Fraqueza Abre Espaço Para a Força de Deus
+
+`1João 3.14ss`
+
+
+
+---
