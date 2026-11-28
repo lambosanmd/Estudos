@@ -13,6 +13,8 @@ style: |
     }
 ---
 
+# Perdão <!--fit-->
+
 ---
 
 # O Que Você Precisa Saber Sobre Perdão
@@ -419,6 +421,123 @@ style: |
 
 `1João 3.14ss`
 
-
+- Perdão não é um conceito abstrato: tem nome, sobrenome, rosto, culpados, vítimas... e uma dor extremamente concreta.
+- É difícil perdoar, mas é impossível ignorar o que o Senhor pensa da falta de perdão.
+- Como se posicionar diante da oposição entre o que *precisa* ser feito e o que se *consegue* fazer?
 
 ---
+
+- A resposta está em Deus.
+- A Bíblia nos ensina que quando somos fracos é que somos fortes.
+- Por quê? Porque, quando somos incapazes de agir por nossas próprias forças, dependemos da força do Senhor.
+- Soltamos o volante o do carro, e deixamos o Espírito nos guiar.
+- Na prática, isso significa que quem não consegue perdoar deve meditar no que a Bíblia diz a esse respeito.
+- Então, com a Palavra em mente, se entregar em oração ao Senhor.
+
+---
+
+- Colocar tudo para fora, desabafar com Deus.
+- Não perdoar mostra que há ódio em nosso coração.
+- Jesus diz que se odiamos nosso irmão somos assassinos e mentirosos.
+
+`1João 4.20`
+
+> Se alguém afirmar: 'Eu amo a Deus', mas odiar seu irmão, é mentiroso, pois quem não ama seu irmão, a quem vê, não pode amar a Deus, a quem não vê.
+
+- Precisamos viver o amor perdoador e assumir nossa fraqueza.
+
+---
+
+# Posso Não Perdoar?
+
+`Mateus 6.14s`
+
+- Perdoar ou odiar? É duro pensar em perdoar em que nos causou males tão grandes.
+- Mas que alternativa temos?
+- se não perdoar, nos afastamos do Cristo crucificado e nos tornamos como os crucificadores.
+- Como filhos de Deus, devemos andar na Luz, orar por que nos fez mal, abençoar quem nos amaldiçoa, ir na direção contrária dos nossos sentimentos.
+
+---
+
+- Em nosso coração só deve haver espaço para um tipo de ódio: ódio ao pecado.
+- Se alguém errou contra você, há uma escolha a ser feita: perdoar ou não.
+- A resposta bíblica é perdoar.
+- Estevão, ao ser apedrejado, disse:
+
+`Atos 7.59s`
+
+> 'Senhor Jesus, recebe o meu espírito'.
+> Então caiu de joelhos e bradou: 'Senhor, não os consideres culpados deste pecado'. E tendo dito isso, adormeceu.
+
+---
+
+- Falta de perdão gera destruição, feridas que não cicatrizam e uma consequência espiritual: não é perdoado por Deus.
+
+`Lucas 6.37c`
+
+> Perdoem e serão perdoados.
+
+`Marcos 11.25s`
+
+> E quando estiverem orando, se tiverem alguma coisa contra alguém, perdoem-no, para que também o Pai celestial lhes perdoe os seus pecados.
+> *Mas se vocês não perdoarem, também o seu Pai que está nos céus não perdoará os seus pecados.*
+
+---
+
+# Após o Perdão
+
+`Salmos 126.4`
+
+- A última etapa do perdão de Deus é a restauração.
+- É como uma casa velha, que ao ser restaurada, troca a parte elétrica, hidráulica, as janelas e portas.
+- Tudo o que por um tempo ficou inutilizado volta a ter a mesma utilidade de antes.
+- A restauração nos permite dar continuidade à vida.
+- O filho pródigo.
+
+---
+
+- A beleza da história não é o comportamento do filho, mas do pai.
+
+`Lucas 15.20`
+
+> Cheio de compaixão.
+
+- Ele ignora a desobediência e acolhe o filho.
+- Deus perdoa, há consequências, porém há restauração.
+- Deus muitas vezes usa pecados terríveis em algo maravilho: Davi e Bate-Seba (linhagem de José).
+
+---
+
+- Deus tranformou o pecado de Davi na semente que seria a maior bênção da história da humanidade: a encarnção do Verbo.
+
+`Romanos 5.20`
+
+> Pois onde abundou o pecado, superabundou a graça.
+
+- É possivel.
+- É desejável.
+- Perdoe e a restauração virá.
+
+---
+
+# Resumo
+
+- Quando alguém comete uma ofensa é como se contraísse uma dívida.
+- Perdoar é cancelar a dívida.
+- Só é possível perdoar com base no amor: quem ama perdoa.
+- Perdoar não tem relação com os méritos do ofensor.
+- Todo tipo de ofensa pode, e deve, ser perdoada.
+- Perdoar é agir.
+- Perdoar não é esquecer.
+
+---
+
+- É não continuar sofrendo.
+- Não devemos continuar no erro, já que seremos perdoados.
+- Perdoar faz bem para o corpo, para a alma e para o espírito.
+- Perdoar nunca é fácil.
+- E após o perdão, há restauração.
+
+---
+
+<!-- paginate: false -->
